@@ -1,0 +1,16 @@
+{
+  "name": "生活认字",
+  "short_name": "认字",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf6ec",
+  "theme_color": "#176f5e",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
